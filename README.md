@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tinashe! <br/><a href="https://github.com/joshmadakor1">Network Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cloud Engineer</a>, <a href="https://www.youtube.com/c/joshmadakor">Cyber Security Proffesional</a></h1>
+<h1>Hi, I'm Tinashe! <br/><a href="https://github.com/joshmadakor1">Network Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cloud Engineer</a>, <a href="https://www.youtube.com/c/joshmadakor">Cyber Security Enthusiast</a></h1>
 
 <h2>👨‍💻 Networking Projects:</h2>
 
@@ -8,7 +8,7 @@
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 - <b>OSPF Single are and Multi Area</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - <b>NAT</b>
+- <b>NAT</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
