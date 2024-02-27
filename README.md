@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tinashe! <br/><a href="https://github.com/joshmadakor1">Network Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cloud Engineer</a>, <a href="https://www.youtube.com/c/joshmadakor">Cyber Security Enthusiast</a></h1>
+<h1>Hi, I'm Tinashe! <br/><a href="https://github.com/joshmadakor1">Network Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cloud and</a> <a href="https://www.youtube.com/c/joshmadakor">Cyber Security Enthusiast</a></h1>
 
 <h2>👨‍💻 Networking Projects:</h2>
 
