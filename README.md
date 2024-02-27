@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Networking Projects:</h2>
 
-- <b>Vlans and Inter-Vlan Connectivity </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>VLANs and Inter-VLAN Connectivity </b>
+  - [Lab on VLANs and inter-VLAN routing](https://github.com/tinasheeliashamandishe/Vlans-and-Inter-Vlan-Routing)
 - <b>Wireless</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 - <b>OSPF Single are and Multi Area</b>
