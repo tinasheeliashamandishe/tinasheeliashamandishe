@@ -18,9 +18,12 @@
 - <b>Vlans and Inter-Vlan Connectivity </b>
   - [Administering VMs in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
 
-
 <h2>👨‍💻 Certifications:</h2>
- [Certified Cisco Network Associate](https://i.imgur.com/8nIJEKr.png)
+
+- <b>Cisco</b>
+  - [Certified Cisco Network Associate](https://i.imgur.com/8nIJEKr.png)
+
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
