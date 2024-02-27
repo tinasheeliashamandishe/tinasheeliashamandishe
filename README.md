@@ -20,7 +20,7 @@
 
 
 <h2>👨‍💻 Certifications:</h2>
- [Certified Cisco Network Associate](https://github.com/joshmadakor1/Algorithms-Practice)
+ [Certified Cisco Network Associate](https://i.imgur.com/8nIJEKr.png)
 
 <h2>📺 Popular YouTube Videos</h2>
 
