@@ -10,8 +10,7 @@
   - [Lab on Network Address Translation](https://github.com/tinasheeliashamandishe/NAT/tree/main)
 - <b>Wireless</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
  
 <h2>👨‍💻 Cloud Projects Projects:</h2>
 
