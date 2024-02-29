@@ -8,6 +8,7 @@
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 - <b>OSPF Single Area and Multi Area</b>
   - [Single Area OSPF Configuration](https://github.com/tinasheeliashamandishe/OSPF-Single-Area/tree/main)
+  - [Multi Area OSPF Configuration](https://github.com/tinasheeliashamandishe/OSPF-Single-Area/tree/main)
 - <b>NAT</b>
   - [Lab on Network Address Translation](https://github.com/tinasheeliashamandishe/NAT/tree/main)
 - <b>Python</b>
