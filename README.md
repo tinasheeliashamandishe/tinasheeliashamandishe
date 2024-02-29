@@ -16,6 +16,7 @@
 
 - <b>Azure Basics</b>
   - [Creating a VM in Azure using the Azure portal](https://github.com/tinasheeliashamandishe/Creating-VMs-in-Azure)
+  - [Creating a VM in Azure using CLI](https://github.com/tinasheeliashamandishe/Creating-VMs-in-Azure)
 
 <h2>👨‍💻 Certifications:</h2>
 
