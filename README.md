@@ -6,7 +6,6 @@
   - [Lab on VLANs and inter-VLAN routing](https://github.com/tinasheeliashamandishe/Vlans-and-Inter-Vlan-Routing)
 - <b>OSPF Single Area and Multi Area</b>
   - [Single Area OSPF Configuration](https://github.com/tinasheeliashamandishe/OSPF-Single-Area/tree/main)
-  - [Multi Area OSPF Configuration](https://github.com/tinasheeliashamandishe/OSPF-Single-Area/tree/main)
 - <b>NAT</b>
   - [Lab on Network Address Translation](https://github.com/tinasheeliashamandishe/NAT/tree/main)
 - <b>Wireless</b>
