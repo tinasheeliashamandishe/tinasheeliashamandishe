@@ -7,7 +7,7 @@
 - <b>Wireless</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 - <b>OSPF Single Area and Multi Area</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Single Area OSPF Configuration](https://github.com/tinasheeliashamandishe/OSPF-Single-Area/tree/main)
 - <b>NAT</b>
   - [Lab on Network Address Translation](https://github.com/tinasheeliashamandishe/NAT/tree/main)
 - <b>Python</b>
