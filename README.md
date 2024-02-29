@@ -6,7 +6,7 @@
   - [Lab on VLANs and inter-VLAN routing](https://github.com/tinasheeliashamandishe/Vlans-and-Inter-Vlan-Routing)
 - <b>Wireless</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
-- <b>OSPF Single are and Multi Area</b>
+- <b>OSPF Single Area and Multi Area</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>NAT</b>
   - [Lab on Network Address Translation](https://github.com/tinasheeliashamandishe/NAT/tree/main)
