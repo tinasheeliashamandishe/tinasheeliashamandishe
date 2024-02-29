@@ -15,7 +15,7 @@
 <h2>👨‍💻 Cloud Projects Projects:</h2>
 
 - <b>Azure Basics</b>
-  - [Administering VMs in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Creating VMs in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>👨‍💻 Certifications:</h2>
 
