@@ -17,7 +17,7 @@
 - <b>Azure Basics</b>
   - [Creating a VM in Azure using the Azure portal](https://github.com/tinasheeliashamandishe/Creating-VMs-in-Azure)
   - [Creating a VM in Azure using CLI](https://github.com/tinasheeliashamandishe/Create-a-VM-in-Azure-using-CLI)
-  - [Configure Network Access in Azure using CLI](https://github.com/tinasheeliashamandishe/Create-a-VM-in-Azure-using-CLI)
+  - [Configure Network Access in Azure using CLI](https://github.com/tinasheeliashamandishe/Azure-Network-Access-CLI)
 
 <h2>👨‍💻 Certifications:</h2>
 
