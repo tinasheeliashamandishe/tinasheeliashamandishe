@@ -19,7 +19,7 @@
   - [Creating a VM in Azure using CLI](https://github.com/tinasheeliashamandishe/Create-a-VM-in-Azure-using-CLI)
   - [Configure Network Access in Azure using CLI](https://github.com/tinasheeliashamandishe/Azure-Network-Access-CLI)
 
-<h2>👨‍💻 Certifications:</h2>
+<h2> Certifications:</h2>
 
 - <b>Cisco</b>
   - [Certified Cisco Network Associate](https://i.imgur.com/8nIJEKr.png)
