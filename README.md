@@ -9,7 +9,7 @@
 - <b>NAT</b>
   - [Lab on Network Address Translation](https://github.com/tinasheeliashamandishe/NAT/tree/main)
 - <b>Access Control Lists</b>
-  - [Lab on ACL Configuration](https://github.com/tinasheeliashamandishe/Wireless-) 
+  - [Lab on ACL Configuration](https://github.com/tinasheeliashamandishe/acls)
 - <b>Wireless</b>
   - [Wireless configuration using WLC and Lightweight Access points](https://github.com/tinasheeliashamandishe/Wireless-) <b><i></b></i>
 
