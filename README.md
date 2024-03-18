@@ -21,6 +21,7 @@
   - [Creating a VM in Azure using CLI](https://github.com/tinasheeliashamandishe/Create-a-VM-in-Azure-using-CLI)
   - [Configure Network Access in Azure using CLI](https://github.com/tinasheeliashamandishe/Azure-Network-Access-CLI)
   - [Create a storage account using the Azure Portal](https://github.com/tinasheeliashamandishe/storage_blob)
+- <b>Azure Administration</b>
 
 <h2> 👨‍💻 Certifications:</h2>
 
