@@ -24,6 +24,7 @@
 - <b>Azure Administration</b>
   - [Create a Windows Virtual machine server in the Azure portal and connect to it via RDP](https://github.com/tinasheeliashamandishe/portalVM)
   - [Create a disk and attach it to a Windows virtual machine server](https://github.com/tinasheeliashamandishe/vmDatadisk)
+  - [Create a disk and attach it to a Windows virtual machine server](https://github.com/tinasheeliashamandishe/serverSideDiskencryption/tree/main)
 <h2> 👨‍💻 Certifications:</h2>
 
 - <b>Cisco</b>
