@@ -22,7 +22,7 @@
   - [Configure Network Access in Azure using CLI](https://github.com/tinasheeliashamandishe/Azure-Network-Access-CLI)
   - [Create a storage account using the Azure Portal](https://github.com/tinasheeliashamandishe/storage_blob)
 - <b>Azure Administration</b>
-  </b>
+ 
   -Virtual machines</b>
   </b>
   - [Create a Windows Virtual machine server in the Azure portal and connect to it via RDP](https://github.com/tinasheeliashamandishe/portalVM)
