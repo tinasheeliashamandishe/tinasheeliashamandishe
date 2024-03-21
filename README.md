@@ -22,6 +22,7 @@
   - [Configure Network Access in Azure using CLI](https://github.com/tinasheeliashamandishe/Azure-Network-Access-CLI)
   - [Create a storage account using the Azure Portal](https://github.com/tinasheeliashamandishe/storage_blob)
 - <b>Azure Administration</b>
+  -- <b>Virtual machines</b>
   - [Create a Windows Virtual machine server in the Azure portal and connect to it via RDP](https://github.com/tinasheeliashamandishe/portalVM)
   - [Create a disk and attach it to a Windows virtual machine server](https://github.com/tinasheeliashamandishe/vmDatadisk)
   - [Encrypt a Data disk using Azure Server-Side disk encryption](https://github.com/tinasheeliashamandishe/serverSideDiskencryption/tree/main)
