@@ -21,7 +21,7 @@
   - [Creating a VM in Azure using CLI](https://github.com/tinasheeliashamandishe/Create-a-VM-in-Azure-using-CLI)
   - [Configure Network Access in Azure using CLI](https://github.com/tinasheeliashamandishe/Azure-Network-Access-CLI)
   - [Create a storage account using the Azure Portal](https://github.com/tinasheeliashamandishe/storage_blob)
-- <b>Azure Administration</b><b />
+- <b>Azure Administration</b><br />
     Virtual machines</b>
   - [Create a Windows Virtual machine server in the Azure portal and connect to it via RDP](https://github.com/tinasheeliashamandishe/portalVM)
   - [Create a disk and attach it to a Windows virtual machine server](https://github.com/tinasheeliashamandishe/vmDatadisk)
