@@ -28,6 +28,7 @@
   - [Create a disk and attach it to a Windows virtual machine server](https://github.com/tinasheeliashamandishe/vmDatadisk)
   - [Encrypt a Data disk using Azure Server-Side disk encryption](https://github.com/tinasheeliashamandishe/serverSideDiskencryption/tree/main)
   - [Encrypt a Data disk using Azure Disk encryption](https://github.com/tinasheeliashamandishe/azureDiskencryption)
+  - [Configure an Azure Shared disk](https://github.com/tinasheeliashamandishe/azureShareddisk)
  
   
 <h2> 👨‍💻 Certifications:</h2>
