@@ -11,7 +11,7 @@
 - <b>Access Control Lists</b>
   - [Lab on Numbered ACL Configuration](https://github.com/tinasheeliashamandishe/acls)
 - <b>DNS</b>
-  - [DNS](https://github.com/tinasheeliashamandishe/Vlans-and-Inter-Vlan-Routing)
+  - [Lab on DNS(Domain Name System)](https://github.com/tinasheeliashamandishe/dns)
 - <b>Wireless</b>
   - [Wireless configuration using WLC and Lightweight Access points](https://github.com/tinasheeliashamandishe/Wireless-) <b><i></b></i>
 
