@@ -10,6 +10,8 @@
   - [Lab on Network Address Translation](https://github.com/tinasheeliashamandishe/NAT/tree/main)
 - <b>Access Control Lists</b>
   - [Lab on Numbered ACL Configuration](https://github.com/tinasheeliashamandishe/acls)
+- <b>DHCP and DNS</b>
+  - [Lab on DHCP and DNS](https://github.com/tinasheeliashamandishe/Vlans-and-Inter-Vlan-Routing)
 - <b>Wireless</b>
   - [Wireless configuration using WLC and Lightweight Access points](https://github.com/tinasheeliashamandishe/Wireless-) <b><i></b></i>
 
