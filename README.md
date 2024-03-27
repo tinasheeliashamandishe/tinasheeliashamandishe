@@ -12,6 +12,8 @@
   - [Lab on Numbered ACL Configuration](https://github.com/tinasheeliashamandishe/acls)
 - <b>DNS</b>
   - [Lab on DNS(Domain Name System)](https://github.com/tinasheeliashamandishe/dns)
+- <b>DHCP</b>
+  - [Lab on DHCP, when server is on the same subnet](https://github.com/tinasheeliashamandishe/dhcp-same-lan)
 - <b>Wireless</b>
   - [Wireless configuration using WLC and Lightweight Access points](https://github.com/tinasheeliashamandishe/Wireless-) <b><i></b></i>
 
