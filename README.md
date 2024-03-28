@@ -17,6 +17,9 @@
 - <b>DHCP</b>
   - [Lab on DHCP, when server is on the same subnet](https://github.com/tinasheeliashamandishe/dhcp-same-lan)
   - [Lab on DHCP, when server is on not the same subnet](https://github.com/tinasheeliashamandishe/dhcp-on-a-diffrent-server)
+- <b>Switch Security</b>
+  - [DHCP Snooping and Dynamic ARP Inspection](https://github.com/tinasheeliashamandishe/dhcp-same-lan)
+  - [Lab on DHCP, when server is on not the same subnet](https://github.com/tinasheeliashamandishe/dhcp-on-a-diffrent-server)
 - <b>Wireless</b>
   - [Wireless configuration using WLC and Lightweight Access points](https://github.com/tinasheeliashamandishe/Wireless-) <b><i></b></i>
 
