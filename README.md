@@ -27,14 +27,17 @@
  
 <h2>👨‍💻 Cloud Projects Projects:</h2>
 
-- <b>Azure Basics</b>
+<h3> Azure Bsics:</h3>
+
+- <b>Labs on Azure Basics</b>
   - [Creating a VM in Azure using the Azure portal](https://github.com/tinasheeliashamandishe/Creating-VMs-in-Azure)
   - [Creating a VM in Azure using CLI](https://github.com/tinasheeliashamandishe/Create-a-VM-in-Azure-using-CLI)
   - [Configure Network Access in Azure using CLI](https://github.com/tinasheeliashamandishe/Azure-Network-Access-CLI)
   - [Create a storage account using the Azure Portal](https://github.com/tinasheeliashamandishe/storage_blob)
-- <b>Azure Administration</b>
-<br />
-       Virtual machines
+
+<h3> Azure Administration:</h3>
+
+- <b>Virtual Machines</b>
   - [Create a Windows Virtual machine server in the Azure portal and connect to it via RDP](https://github.com/tinasheeliashamandishe/portalVM)
   - [Create a disk and attach it to a Windows virtual machine server](https://github.com/tinasheeliashamandishe/vmDatadisk)
   - [Encrypt a Data disk using Azure Server-Side disk encryption](https://github.com/tinasheeliashamandishe/serverSideDiskencryption/tree/main)
@@ -43,9 +46,9 @@
   - [Configure Custom script extensions](https://github.com/tinasheeliashamandishe/customScriptextension)
   - [Configure a Virtual machine Scale set](https://github.com/tinasheeliashamandishe/scaleSets)
   - [Virtual Machine images](https://github.com/tinasheeliashamandishe/virtual-machine-images)
-    <br />
-
- 
+- <b>Web Apps</b>
+  - [Create a Windows Virtual machine server in the Azure portal and connect to it via RDP](https://github.com/tinasheeliashamandishe/portalVM)
+  - [Create a disk and attach it to a Windows virtual machine server](https://github.com/tinasheeliashamandishe/vmDatadisk)
   
 <h2> 👨‍💻 Certifications:</h2>
 
