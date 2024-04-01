@@ -47,8 +47,7 @@
   - [Configure a Virtual machine Scale set](https://github.com/tinasheeliashamandishe/scaleSets)
   - [Virtual Machine images](https://github.com/tinasheeliashamandishe/virtual-machine-images)
 - <b>Web Apps</b>
-  - [Create a Windows Virtual machine server in the Azure portal and connect to it via RDP](https://github.com/tinasheeliashamandishe/portalVM)
-  - [Create a disk and attach it to a Windows virtual machine server](https://github.com/tinasheeliashamandishe/vmDatadisk)
+  
   
 <h2> 👨‍💻 Certifications:</h2>
 
