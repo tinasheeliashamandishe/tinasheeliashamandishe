@@ -44,8 +44,6 @@
   - [Virtual Machine images](https://github.com/tinasheeliashamandishe/virtual-machine-images)
     <br />
 
-    Web Apps</b>
- 
  
   
 <h2> 👨‍💻 Certifications:</h2>
