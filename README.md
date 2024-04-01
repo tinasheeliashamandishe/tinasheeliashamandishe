@@ -43,7 +43,7 @@
   - [Configure a Virtual machine Scale set](https://github.com/tinasheeliashamandishe/scaleSets)
   - [Virtual Machine images](https://github.com/tinasheeliashamandishe/virtual-machine-images)
     <br />
-- <b>Azure Administration</b><br />
+
     Web Apps</b>
  
  
