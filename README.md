@@ -50,6 +50,7 @@
   - [Virtual Machine images](https://github.com/tinasheeliashamandishe/virtual-machine-images)
 - <b>Web Apps</b>
   - [Configure an Azure Web App](https://github.com/tinasheeliashamandishe/azure-web-app)
+  - [Configure Azure Web App Deployement Slots](https://github.com/tinasheeliashamandishe/deployment-slots)
   
   
 <h2> 👨‍💻 Certifications:</h2>
