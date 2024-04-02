@@ -23,8 +23,6 @@
   - [Port Security](https://github.com/tinasheeliashamandishe/port-security)
 - <b>Cisco Device Security</b>
   - [DHCP Snooping](https://github.com/tinasheeliashamandishe/dhcp-and-dai)
-  - [Dynamic ARP Inspection](https://github.com/tinasheeliashamandishe/dai)
-  - [Port Security](https://github.com/tinasheeliashamandishe/port-security)
 - <b>Wireless</b>
   - [Wireless configuration using WLC and Lightweight Access points](https://github.com/tinasheeliashamandishe/Wireless-) <b><i></b></i>
 
