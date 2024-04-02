@@ -49,6 +49,7 @@
   - [Configure a Virtual machine Scale set](https://github.com/tinasheeliashamandishe/scaleSets)
   - [Virtual Machine images](https://github.com/tinasheeliashamandishe/virtual-machine-images)
 - <b>Web Apps</b>
+  - [Configure an Azure Web App](https://github.com/tinasheeliashamandishe/azure-web-app)
   
   
 <h2> 👨‍💻 Certifications:</h2>
