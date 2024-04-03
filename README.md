@@ -23,6 +23,7 @@
   - [Port Security](https://github.com/tinasheeliashamandishe/port-security)
 - <b>Cisco Device Security</b>
   - [Line level Security](https://github.com/tinasheeliashamandishe/line-level-security)
+  - [SSH Configuration](https://github.com/tinasheeliashamandishe/ssh)
 - <b>Wireless</b>
   - [Wireless configuration using WLC and Lightweight Access points](https://github.com/tinasheeliashamandishe/Wireless-) <b><i></b></i>
 
