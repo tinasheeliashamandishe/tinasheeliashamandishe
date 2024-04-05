@@ -54,6 +54,7 @@
   - [Configure Azure Web App Deployement Slots](https://github.com/tinasheeliashamandishe/deployment-slots)
 - <b>Conatiners</b>
   - [Configure Docker on a Linux VM](https://github.com/tinasheeliashamandishe/docker-on-a-linux-VM)
+  - [Deploy an Azure Container Registry](https://github.com/tinasheeliashamandishe/azure-container-registry)
  
   
   
