@@ -58,6 +58,7 @@
   - [Deploy an Azure Container Registry and push a conatiner image](https://github.com/tinasheeliashamandishe/azure-container-reg-2)
   - [Deploy an Azure Container Instance resource](https://github.com/tinasheeliashamandishe/container-instances)
   - [Deploy an Azure Container App](https://github.com/tinasheeliashamandishe/container-app)
+  - [Deploy an Azure Kubernetes Service Cluster](https://github.com/tinasheeliashamandishe/azure-kubernetes-service)
  
  
  
