@@ -55,6 +55,7 @@
 - <b>Conatiners</b>
   - [Configure Docker on a Linux VM](https://github.com/tinasheeliashamandishe/docker-on-a-linux-VM)
   - [Deploy an Azure Container Registry](https://github.com/tinasheeliashamandishe/azure-container-registry)
+  - [Deploy an Azure Container Registry and push a conatiner image](https://github.com/tinasheeliashamandishe/azure-container-reg-2)
  
   
   
