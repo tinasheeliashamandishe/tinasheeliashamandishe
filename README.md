@@ -24,6 +24,8 @@
 - <b>Cisco Device Security</b>
   - [Line level Security](https://github.com/tinasheeliashamandishe/line-level-security)
   - [SSH Configuration](https://github.com/tinasheeliashamandishe/ssh)
+- <b>NTP</b>
+  - [NTP Server](https://github.com/tinasheeliashamandishe/ntp-1)
 - <b>Wireless</b>
   - [Wireless configuration using WLC and Lightweight Access points](https://github.com/tinasheeliashamandishe/Wireless-) <b><i></b></i>
 
