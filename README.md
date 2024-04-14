@@ -26,6 +26,7 @@
   - [SSH Configuration](https://github.com/tinasheeliashamandishe/ssh)
 - <b>NTP</b>
   - [NTP Server](https://github.com/tinasheeliashamandishe/ntp-1)
+  - [NTP with devices in Server and Client mode](https://github.com/tinasheeliashamandishe/ntp-2)
 - <b>Wireless</b>
   - [Wireless configuration using WLC and Lightweight Access points](https://github.com/tinasheeliashamandishe/Wireless-) <b><i></b></i>
 
