@@ -1,6 +1,6 @@
 <h1>Hi, I'm Tinashe! <br/>Network Engineer</a>, Cloud and</a> <a >Cyber Security Enthusiast</a></h1>
 
-<h2>👨‍💻 Networking Projects:</h2>
+<h2>👨‍💻 Networking Concepts:</h2>
 
 - <b>VLANs and Inter-VLAN Connectivity </b>
   - [Lab on VLANs and inter-VLAN routing](https://github.com/tinasheeliashamandishe/Vlans-and-Inter-Vlan-Routing)
@@ -31,9 +31,9 @@
   - [Wireless configuration using WLC and Lightweight Access points](https://github.com/tinasheeliashamandishe/Wireless-) <b><i></b></i>
 
  
-<h2>👨‍💻 Cloud Projects Projects:</h2>
+<h2>👨‍💻 Cloud Concepts:</h2>
 
-<h3> Azure Bsics:</h3>
+<h3> Azure Basics:</h3>
 
 - <b>Labs on Azure Basics</b>
   - [Creating a VM in Azure using the Azure portal](https://github.com/tinasheeliashamandishe/Creating-VMs-in-Azure)
