@@ -61,10 +61,9 @@
   - [Deploy an Azure Container Instance resource](https://github.com/tinasheeliashamandishe/container-instances)
   - [Deploy an Azure Container App](https://github.com/tinasheeliashamandishe/container-app)
   - [Deploy an Azure Kubernetes Service Cluster](https://github.com/tinasheeliashamandishe/azure-kubernetes-service)
- - <b>Virtual Networks</b>
-  - [Configure Docker on a Linux VM](https://github.com/tinasheeliashamandishe/docker-on-a-linux-VM)
- 
- 
+- <b>Virtual Networks</b>
+  - [Configure an Azure Web App](https://github.com/tinasheeliashamandishe/azure-web-app)
+  - [Configure Azure Web App Deployement Slots](https://github.com/tinasheeliashamandishe/deployment-slots)
   
   
 <h2> 👨‍💻 Certifications:</h2>
