@@ -62,7 +62,7 @@
   - [Deploy an Azure Container App](https://github.com/tinasheeliashamandishe/container-app)
   - [Deploy an Azure Kubernetes Service Cluster](https://github.com/tinasheeliashamandishe/azure-kubernetes-service)
 - <b>Virtual Networks</b>
-  - [Configure an Azure Web App](https://github.com/tinasheeliashamandishe/azure-web-app)
+  - [Create an Azure Virtual Network](https://github.com/tinasheeliashamandishe/vnet-creation)
   - [Configure Azure Web App Deployement Slots](https://github.com/tinasheeliashamandishe/deployment-slots)
   
   
