@@ -63,7 +63,6 @@
   - [Deploy an Azure Kubernetes Service Cluster](https://github.com/tinasheeliashamandishe/azure-kubernetes-service)
 - <b>Virtual Networks</b>
   - [Create an Azure Virtual Network](https://github.com/tinasheeliashamandishe/vnet-creation)
-  - [Configure Azure Web App Deployement Slots](https://github.com/tinasheeliashamandishe/deployment-slots)
   
   
 <h2> 👨‍💻 Certifications:</h2>
