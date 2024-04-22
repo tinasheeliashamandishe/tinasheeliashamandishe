@@ -65,6 +65,7 @@
   - [Create an Azure Virtual Network](https://github.com/tinasheeliashamandishe/vnet-creation)
   - [Configure a Basic Azure LoadBalancer](https://github.com/tinasheeliashamandishe/azure-load-balancer-basic)
   - [Configure a Standard Azure LoadBalancer with multiple Front-end IP's](https://github.com/tinasheeliashamandishe/standard-loadbalancer)
+  - [Configure Azure Virtual Network Peering](https://github.com/tinasheeliashamandishe/virtual-network-peering)
   
   
 <h2> 👨‍💻 Certifications:</h2>
