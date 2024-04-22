@@ -63,6 +63,7 @@
   - [Deploy an Azure Kubernetes Service Cluster](https://github.com/tinasheeliashamandishe/azure-kubernetes-service)
 - <b>Virtual Networks</b>
   - [Create an Azure Virtual Network](https://github.com/tinasheeliashamandishe/vnet-creation)
+  - [Configure a Basic Azure LoadBalancer](https://github.com/tinasheeliashamandishe/azure-load-balancer-basic)
   
   
 <h2> 👨‍💻 Certifications:</h2>
