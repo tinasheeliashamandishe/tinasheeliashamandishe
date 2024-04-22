@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tinashe! <br/>Network Engineer</a>, Cloud and</a> <a >Cyber Security Enthusiast</a></h1>
+<h1>Hi, I'm Tinashe! <br/>Networking</a>, Cloud and</a> <a >Cyber Security Enthusiast</a></h1>
 
 <h2>👨‍💻 Networking Concepts:</h2>
 
