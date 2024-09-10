@@ -67,6 +67,7 @@
   - [Configure a Standard Azure LoadBalancer with multiple Front-end IP's](https://github.com/tinasheeliashamandishe/standard-loadbalancer)
   - [Configure Azure Virtual Network Peering](https://github.com/tinasheeliashamandishe/virtual-network-peering)
   - [Configure Azure Bastion](https://github.com/tinasheeliashamandishe/azure-bastion)
+  - [Configure Azure User Defined Routes](https://github.com/tinasheeliashamandishe/User-defined-routes)
   
   
 <h2> 👨‍💻 Certifications:</h2>
