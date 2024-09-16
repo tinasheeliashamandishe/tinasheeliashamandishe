@@ -68,7 +68,7 @@
   - [Configure Azure Virtual Network Peering](https://github.com/tinasheeliashamandishe/virtual-network-peering)
   - [Configure Azure Bastion](https://github.com/tinasheeliashamandishe/azure-bastion)
   - [Configure Azure User Defined Routes](https://github.com/tinasheeliashamandishe/User-defined-routes)
-  
+  - [Azure Network Watcher](https://github.com/tinasheeliashamandishe/network-watcher)
   
 <h2> 👨‍💻 Certifications:</h2>
 
