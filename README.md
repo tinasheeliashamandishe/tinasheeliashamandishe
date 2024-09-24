@@ -69,6 +69,8 @@
   - [Configure Azure Bastion](https://github.com/tinasheeliashamandishe/azure-bastion)
   - [Configure Azure User Defined Routes](https://github.com/tinasheeliashamandishe/User-defined-routes)
   - [Azure Network Watcher](https://github.com/tinasheeliashamandishe/network-watcher)
+  - [Azure DNS](https://github.com/tinasheeliashamandishe/azuredns)
+ 
   
 <h2> 👨‍💻 Certifications:</h2>
 
