@@ -70,7 +70,7 @@
   - [Configure Azure User Defined Routes](https://github.com/tinasheeliashamandishe/User-defined-routes)
   - [Azure Network Watcher](https://github.com/tinasheeliashamandishe/network-watcher)
   - [Azure DNS](https://github.com/tinasheeliashamandishe/azuredns)
-  - [Azure Private DNS](https://github.com/tinasheeliashamandishe/private-dns)
+  - [Configure Azure Private DNS](https://github.com/tinasheeliashamandishe/private-dns)
  
   
 <h2> 👨‍💻 Certifications:</h2>
