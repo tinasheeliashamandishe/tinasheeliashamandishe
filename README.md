@@ -71,8 +71,11 @@
   - [Azure Network Watcher](https://github.com/tinasheeliashamandishe/network-watcher)
   - [Azure DNS](https://github.com/tinasheeliashamandishe/azuredns)
   - [Configure Azure Private DNS](https://github.com/tinasheeliashamandishe/private-dns)
+- <b>Storage Accounts</b>
+  - [Create an Azure Storage account](https://github.com/tinasheeliashamandishe/vnet-creation)
+  - [Configure a Basic Azure LoadBalancer](https://github.com/tinasheeliashamandishe/azure-load-balancer-basic)
+
  
-  
 <h2> 👨‍💻 Certifications:</h2>
 
 - <b>Cisco</b>
