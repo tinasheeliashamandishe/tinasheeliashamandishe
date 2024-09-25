@@ -73,7 +73,7 @@
   - [Configure Azure Private DNS](https://github.com/tinasheeliashamandishe/private-dns)
 - <b>Storage Accounts</b>
   - [Create an Azure Storage account](https://github.com/tinasheeliashamandishe/create-storage-account)
-  - [Configure a Basic Azure LoadBalancer](https://github.com/tinasheeliashamandishe/azure-load-balancer-basic)
+  - [Access Information in Storage Account](https://github.com/tinasheeliashamandishe/accesing-info-in-staorageaccount)
 
  
 <h2> 👨‍💻 Certifications:</h2>
