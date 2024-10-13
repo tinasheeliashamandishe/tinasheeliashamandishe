@@ -75,6 +75,10 @@
   - [Create an Azure Storage account](https://github.com/tinasheeliashamandishe/create-storage-account)
   - [Access Information in Storage Account](https://github.com/tinasheeliashamandishe/accesing-info-in-staorageaccount)
   - [Object Replication](https://github.com/tinasheeliashamandishe/object-replication)
+- <b>Ebtra ID</b>
+  - [Create an Azure Storage account](https://github.com/tinasheeliashamandishe/create-storage-account)
+  - [Access Information in Storage Account](https://github.com/tinasheeliashamandishe/accesing-info-in-staorageaccount)
+  - [Object Replication](https://github.com/tinasheeliashamandishe/object-replication)
 
  
 <h2> 👨‍💻 Certifications:</h2>
