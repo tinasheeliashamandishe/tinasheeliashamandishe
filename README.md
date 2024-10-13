@@ -75,7 +75,7 @@
   - [Create an Azure Storage account](https://github.com/tinasheeliashamandishe/create-storage-account)
   - [Access Information in Storage Account](https://github.com/tinasheeliashamandishe/accesing-info-in-staorageaccount)
   - [Object Replication](https://github.com/tinasheeliashamandishe/object-replication)
-- <b>Entra ID</b>
+- <b>Identity and Governance</b>
   - [Create a user and assign roles](https://github.com/tinasheeliashamandishe/create-a-user-and-assign-roles)
   - [Access Information in Storage Account](https://github.com/tinasheeliashamandishe/accesing-info-in-staorageaccount)
   - [Object Replication](https://github.com/tinasheeliashamandishe/object-replication)
