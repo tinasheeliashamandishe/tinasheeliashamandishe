@@ -86,6 +86,7 @@
   - [Certified Cisco Network Associate](https://i.imgur.com/8nIJEKr.png)
 - <b>Microsoft</b>
   - [Microsoft Certified: Azure Fundamentals](https://i.imgur.com/UU3M0JE.png)
+  - [Microsoft Certified: Azure Azure Administrator Associate](https://i.imgur.com/UU3M0JE.png)
 
 <h2> 🤳 Connect with me:</h2>
 
