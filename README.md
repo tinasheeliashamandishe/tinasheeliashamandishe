@@ -31,7 +31,7 @@ My GitHub is used to document my hands-on learning, technical labs, and all my p
 - <b>Microsoft Defender learning</b>
 - <b>Identity and access management</b>
 - <b>Architecture notes</b></b>
-- <h4>[See What Tinashe has Learnt](https://github.com/tinasheeliashamandishe/tinashelearns/blob/main/README.md)</h4>
+- <h4>[See What Tinashe has Learnt]</h4>(https://github.com/tinasheeliashamandishe/tinashelearns/blob/main/README.md)
 
 
  
