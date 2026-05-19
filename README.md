@@ -23,8 +23,8 @@ My GitHub is used to document my hands-on learning, technical labs, and all my p
 
 <h3> Tinashe Learns:</h3>
 
-- <bI keep my smaller labs, notes and learning progress in one organised learning repository:</b>
-  - [Creating a VM in Azure using the Azure portal](https://github.com/tinasheeliashamandishe/tinashelearns/blob/main/README.md)
+- <b>I keep my smaller labs, notes and learning progress in one organised learning repository:</b>
+  - [See What Tinashe has Learnt](https://github.com/tinasheeliashamandishe/tinashelearns/blob/main/README.md)
 
 
  
