@@ -15,7 +15,7 @@ My GitHub is used to document my hands-on learning, technical labs, and all my p
 
   - [Creating a VM in Azure using the Azure portal](https://github.com/tinasheeliashamandishe/Creating-VMs-in-Azure)
 
-  - [Click her to see evryhting I have worked on](https://github.com/tinasheeliashamandishe/storage_blob)
+  [Click her to see evryhting I have worked on](https://github.com/tinasheeliashamandishe/storage_blob)
 
 <h2>👨‍💻 Tinashe Learns:</h2>
 
