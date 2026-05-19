@@ -11,7 +11,7 @@ My GitHub is used to document my hands-on learning, technical labs, and all my p
  
 <h2>👨‍💻 Featured Projects:</h2>
 
-<h3> Check out some of my some projects:</h3>
+<h4> Check out some of my some projects:</h4>
 
   - [Creating a VM in Azure using the Azure portal](https://github.com/tinasheeliashamandishe/Creating-VMs-in-Azure)
 
@@ -19,7 +19,7 @@ My GitHub is used to document my hands-on learning, technical labs, and all my p
 
 <h2>👨‍💻 Tinashe Learns:</h2>
 
-<h3> I keep my smaller labs, notes and learning progress in one organised learning repository:</h3>
+<h4> I keep my smaller labs, notes and learning progress in one organised learning repository:</h4>
 
 <b>This includees:</b>
 - <b>Networking concepts</b>
