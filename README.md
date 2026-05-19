@@ -7,7 +7,7 @@
 My GitHub is used to document my hands-on learning, technical labs, and all my projects.
  </b>
 
-
+<br>
 
 
 
@@ -24,7 +24,7 @@ My GitHub is used to document my hands-on learning, technical labs, and all my p
 
   [Click her to see evryhting I have worked on](https://github.com/tinasheeliashamandishe/storage_blob)
 
-
+<br>
 
 
 
@@ -49,6 +49,7 @@ My GitHub is used to document my hands-on learning, technical labs, and all my p
 
 [See What Tinashe is Learning</b>](https://github.com/tinasheeliashamandishe/tinashelearns/blob/main/README.md)
 
+<br>
 
 
 
@@ -67,6 +68,8 @@ My GitHub is used to document my hands-on learning, technical labs, and all my p
   - [Microsoft Certified: 365 Fundamentals](https://i.imgur.com/UU3M0JE.png)
   - [Microsoft Certified: Azure Fundamentals](https://i.imgur.com/UU3M0JE.png)
   - [Microsoft Certified: Azure  Administrator Associate](https://imgur.com/a/EW7x9GL)
+
+  <br>
   
 
 <h2> 🤳 Connect with me:</h2>
