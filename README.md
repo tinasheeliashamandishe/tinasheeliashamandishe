@@ -24,14 +24,14 @@ My GitHub is used to document my hands-on learning, technical labs, and all my p
 <h3> I keep my smaller labs, notes and learning progress in one organised learning repository:</h3>
 
 <b>This includees:</b>
--<b>Networking concepts</b>
+- <b>Networking concepts</b>
 - <b>Azure administration labs</b>
 - <b>Cloud security notes</b>
 - <b>Microsoft Sentinel learning</b>
 - <b>Microsoft Defender learning</b>
 - <b>Identity and access management</b>
 - <b>Architecture notes</b></b>
-- <h3>[See What Tinashe has Learnt](https://github.com/tinasheeliashamandishe/tinashelearns/blob/main/README.md)</h3>
+- <h2>[See What Tinashe has Learnt](https://github.com/tinasheeliashamandishe/tinashelearns/blob/main/README.md)</h2>
 
 
  
