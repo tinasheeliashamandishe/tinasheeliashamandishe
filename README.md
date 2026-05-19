@@ -21,13 +21,10 @@ My GitHub is used to document my hands-on learning, technical labs, and all my p
 
 <h2>👨‍💻 Learning Hub:</h2>
 
-<h3> Azure Basics:</h3>
+<h3> Tinashe Learns:</h3>
 
-- <b>Labs on Azure Basics</b>
-  - [Creating a VM in Azure using the Azure portal](https://github.com/tinasheeliashamandishe/Creating-VMs-in-Azure)
-  - [Creating a VM in Azure using CLI](https://github.com/tinasheeliashamandishe/Create-a-VM-in-Azure-using-CLI)
-  - [Configure Network Access in Azure using CLI](https://github.com/tinasheeliashamandishe/Azure-Network-Access-CLI)
-  - [Create a storage account using the Azure Portal](https://github.com/tinasheeliashamandishe/storage_blob)
+- <bI keep my smaller labs, notes and learning progress in one organised learning repository:</b>
+  - [Creating a VM in Azure using the Azure portal](https://github.com/tinasheeliashamandishe/tinashelearns/blob/main/README.md)
 
 
  
