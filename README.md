@@ -19,11 +19,10 @@ My GitHub is used to document my hands-on learning, technical labs, and all my p
   - [Configure Network Access in Azure using CLI](https://github.com/tinasheeliashamandishe/Azure-Network-Access-CLI)
   - [Create a storage account using the Azure Portal](https://github.com/tinasheeliashamandishe/storage_blob)
 
-<h2>👨‍💻 Learning Hub:</h2>
+<h2>👨‍💻 Tinashe Learns:</h2>
 
-<h3> Tinashe Learns:</h3>
+<h3> I keep my smaller labs, notes and learning progress in one organised learning repository:</h3>
 
-<h4>I keep my smaller labs, notes and learning progress in one organised learning repository:</h4>
 <b>This includees:</b>
 <b>-Networking concepts</b>
 - <b>Azure administration labs</b>
