@@ -1,6 +1,6 @@
 <h1>Hi, I'm Tinashe! <br/>Network | Cloud | Cybersecurity</a></h1>
 
-<h2>👨‍💻 Network | Cloud | Cybersecurity :</h2>
+
 
 <b>I am building my career around cloud architecture, cybersecurity, networking, and infrastructure , with a strong focus on Microsoft Azure and secure cloud environments.
 
