@@ -25,7 +25,7 @@ My GitHub is used to document my hands-on learning, technical labs, and all my p
 
 <h4>I keep my smaller labs, notes and learning progress in one organised learning repository:</h4>
 <b>This includees:</b>
-- <b>Networking concepts</b>
+<b>-Networking concepts</b>
 - <b>Azure administration labs</b>
 - <b>Cloud security notes</b>
 - <b>Microsoft Sentinel learning</b>
