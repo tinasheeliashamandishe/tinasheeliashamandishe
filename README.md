@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Network | Cloud | Cybersecurity :</h2>
 
-- <b>I am building my career around cloud architecture, cybersecurity, networking, and infrastructure , with a strong focus on Microsoft Azure and secure cloud environments.
+<b>I am building my career around cloud architecture, cybersecurity, networking, and infrastructure , with a strong focus on Microsoft Azure and secure cloud environments.
 
 My GitHub is used to document my hands-on learning, technical labs, and all my projects.
  </b>
